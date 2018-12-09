@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">grabarAudio</string>
+    <string name="btnStr_GRABAR">Grabar</string>
+    <string name="btnStr_REPRODUCIR">ReProducir</string>
+</resources>
